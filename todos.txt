@@ -1,0 +1,8 @@
+[x] shift deployment tech stack to netlify
+[x] build out naviation 
+[] build out sections of site 
+  [] our team
+  [] our services
+  [] our location
+  [] our fees
+  [] contact us
